@@ -1,5 +1,5 @@
 # observium-syslogng
-Observium Syslog NG enrichment
+Observium Syslog enrichment
 
 You might want to change this:
 
